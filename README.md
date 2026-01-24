@@ -12,7 +12,7 @@ I’m documenting my learning journey here and open to collaboration and freelan
 ### Comfortable with
 - HTML & CSS
 - JavaScript (basics)
-- Git & GitHub
+- Git & GitHub (basics)
 
 ### Currently learning
 - React basic
