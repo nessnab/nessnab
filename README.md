@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hey there! 👋  
+I’m Ness, a Management student based in Indonesia.
 
-<!--
-**nessnab/nessnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a background in design and a strong interest in technology, I enjoy working at the intersection of business, design, and technology—understanding not just how things look, but how they work and support real business needs.
 
-Here are some ideas to get you started:
+I focus on identifying real-world problems and building efficient solutions that make sense from both technical and business perspectives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m learning backend development and web systems while building small, practical projects.
+
+I’m documenting my learning journey here and open to collaboration and freelance opportunities.
+
+### Comfortable with
+- HTML & CSS
+- JavaScript (basics)
+- Git & GitHub
+
+### Currently learning
+- React basic
+- Backend fundamentals
+- APIs & databases
+- Web systems & basic architecture
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nessnab)  
+🌱 Learning in public through GitHub
