@@ -1,7 +1,7 @@
 ### Hey there! 👋  
 I’m Ness, a Management student based in Indonesia.
 
-With a background in design and a strong interest in technology, I enjoy working at the intersection of business, design, and technology—understanding not just how things look, but how they work and support real business needs.
+With a background in design and a strong interest in technology, I enjoy working at the intersection of business, design, and technology. 
 
 I focus on identifying real-world problems and building efficient solutions that make sense from both technical and business perspectives.
 
