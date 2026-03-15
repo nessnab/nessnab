@@ -11,14 +11,17 @@ I’m documenting my learning journey here and open to collaboration and freelan
 
 ### Comfortable with
 - HTML & CSS
+- Tailwind CSS
 - JavaScript (basics)
+- Nose.js (basics)
 - Git & GitHub (basics)
+- Web systems & basic architecture
+- MongoDB database via Mongoose
 
 ### Currently learning
 - React basic
-- Backend fundamentals
+- JSON Web Token
 - APIs & databases
-- Web systems & basic architecture
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nessnab)  
 🌱 Learning in public through GitHub
