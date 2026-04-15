@@ -17,10 +17,10 @@ I’m documenting my learning journey here and open to collaboration and freelan
 - Git & GitHub (basics)
 - Web systems & basic architecture
 - MongoDB database via Mongoose
+- JSON Web Token
 
 ### Currently learning
 - React basic
-- JSON Web Token
 - APIs & databases
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nessnab)  
